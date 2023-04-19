@@ -1,0 +1,12 @@
+venv
+datas/ratings_small.csv
+datas/ratings.csv
+datas/links.csv
+datas/links_small.csv
+datas/keywords.csv
+datas/credits.csv
+saved_model/config.json
+saved_model/special_tokens_map.json
+saved_model/tf_model.h5
+saved_model/tokenizer_config.json
+saved_model/vocab.txt
